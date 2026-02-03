@@ -1,0 +1,1 @@
+{"allowed_top_level_directories":["agents","automation","audit","docs","governance","schemas","tk-22","workflows"],"mode":"warn-only","notes":"Control-plane ingress guard. No enforcement, reporting only."}
